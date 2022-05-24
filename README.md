@@ -1,6 +1,12 @@
 # HotelReservationSystemWithGolang
 https://www.udemy.com/course/building-modern-web-applications-with-go/
 
+- Built in Go version 1.15
+- Uses the [chi router](github.com/go-chi/chi)
+- Uses [alex edwards scs session management](github.com/alexedwards/scs)
+- Uses [nosurf](github.com/justinas/nosurf)
+
+
 
 
 ![image](https://user-images.githubusercontent.com/98224771/170096725-98bca278-30a6-45b7-b146-1b2c119e93e0.png)
